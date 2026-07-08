@@ -5,7 +5,7 @@
 ############
 # OpenAI 🔒
 ############
-0.0.0.0 https://chatgpt.com/
+0.0.0.0 chatgpt.com
 0.0.0.0 api.openai.com
 0.0.0.0 platform.openai.com
 0.0.0.0 chat.openai.com
