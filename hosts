@@ -61,6 +61,11 @@
 0.0.0.0 translate.googleapis.com
 
 ############
+# Duckduck Go
+############
+0.0.0.0 duck.ai
+
+############
 # Amazon Bedrock (core endpoints)
 ############
 0.0.0.0 bedrock.amazonaws.com
